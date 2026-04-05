@@ -1,4 +1,7 @@
 # TheOmairi
+ゲームプレイはこちら  
+https://sylphiraia.github.io/TheOmairi/
+
 ## What's this?
 お詣りの「お作法」を評価する、~教育的~アクションゲームです。  
 「マウスクリックで できること」をコンセプトとしています。  
